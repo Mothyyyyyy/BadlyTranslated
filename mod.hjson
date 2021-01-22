@@ -1,6 +1,9 @@
-name: ""
-displayName: ""
-author: ""
-description: ""
-version: 0.0
-minGameVersion: 104
+{
+"name": "translatedBundles",
+"displayName": "Poorly Translated Mindustry",
+"author": "Fish-Noises",
+"description": "Translated from English to Japanese to Kinyarwanda to Odia to English",
+"version": "1",
+"minGameVersion": "121",
+"hidden": true
+}
