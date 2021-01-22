@@ -1,4 +1,3 @@
-# MindustryMod-Template
-Mindustry Mod Template
+# Translated Bundles
 
-フォルダを削除したい場合はフォルダ内の".gitkeep"を消してください。
+Welcome to Poorly Translated Mindustry! Mindustry's text has been translated through multiple google translate languages until they have been mutilated to death. Enjoy.
